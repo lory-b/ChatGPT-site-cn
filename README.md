@@ -1,5 +1,5 @@
-# ChatGPT 中文版：国内用户免费使用指南（支持 GPT-4）
-> **更新时间：2024/12/07**  
+# ChatGPT 中文版：国内镜像网站访问指南（支持 GPT-o1-pro）
+> **更新时间：2024/12/10**  
 > **作者：lory-b**
 
 
@@ -35,7 +35,7 @@ ChatGPT 中文版是由 OpenAI 开发的智能对话模型的中文优化版本�
 | 镜像站名称       | 网址                                 | 支持版本       | 免费额度 | 功能亮点                     |
 |------------------|--------------------------------------|----------------|----------|------------------------------|
 | **蛇语 AI**      | [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5 | 5次      | 中文优化，支持 GPT-4 和 AI 绘图 |
-| **GPT 猫中文站** | [gptcat.net](https://gptcat.net/)     | GPT-4, GPT-o1  | 10次      | 中文界面，无广告              |
+| **GPT 猫中文站** | [gptcat.net](https://gptcat.net/)     | GPT-4, GPT-o1-pro  | 10次      | 中文界面，无广告              |
 | **熊猫 GPT**     | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 10次      | 稳定快速，支持 API 调用        |
 | **狗狗 GPT**     | [gptdog.online](https://gptdog.online) | GPT-3.5        | 无      | 简单易用，新手友好            |
 
